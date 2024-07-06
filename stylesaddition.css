@@ -1,0 +1,58 @@
+
+.btn-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 60px;
+    width: 100vw;
+    background-color: rgb(36, 36, 36);
+    position: sticky;
+    float: bottom;
+    clear: both;
+    bottom: 0;
+    border-top: 1px solid rgb(62, 62, 62);
+    align-items: center;
+    
+}
+.btn-container button{
+    background-color: rgb(255, 255, 255);
+    height: 45px;
+    width: 45px;
+    margin-left: 20px;
+    margin-left: 20px;
+    border-radius: 25px;
+    font-size: 25px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button svg {
+    width: 30px;
+    fill:  rgb(36, 36, 36);
+}
+.btn-container button:active{
+    /* background-color: rgb(255, 183, 59); */
+    filter: drop-shadow(0 0 10px rgb(255, 200, 83))
+    drop-shadow(0 0 2px rgb(255, 255, 255))
+    ; 
+    color: rgb(255, 200, 83);
+}
+.btn-container button svg:active{
+    fill:  rgb(255, 200, 83);
+}
+html{
+    scrollbar-color: transparent transparent !important;
+    scrollbar-width: none !important;
+    /* overflow: scroll;
+    overflow-x: hidden; */
+}
+
+::-webkit-scrollbar {
+    width: 0;  
+    background: transparent;  
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
