@@ -50,28 +50,29 @@ export let setNameViewer = [
     "../../assets/img3.jpg",
     "../../assets/img4.jpg"
 ];
+let prefix = 'http://cdn.jsdelivr.net/gh/';
 export let setViewerImg = [
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer1.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer2.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer3.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer4.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer5.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer6.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer7.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer8.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer9.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer10.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer11.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer12.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer13.png?raw=true"
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer1.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer2.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer3.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer4.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer5.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer6.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer7.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer8.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer9.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer10.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer11.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer12.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer13.png"
 ];
 export let setMemberImg = [
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem1.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem2.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem3.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem4.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem5.png?raw=true",
-    "https://github.com/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem6.png?raw=true"
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem1.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem2.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem3.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem4.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem5.png",
+    prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem6.png"
 ];
 export let setMemberName = [
     "I'm-member-one",
