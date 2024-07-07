@@ -50,7 +50,7 @@ export let setNameViewer = [
     "../../assets/img3.jpg",
     "../../assets/img4.jpg"
 ];
-let prefix = 'http://cdn.jsdelivr.net/gh/';
+let prefix = 'https://cdn.jsdelivr.net/gh/';
 export let setViewerImg = [
     prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer1.png",
     prefix + "HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer2.png",
