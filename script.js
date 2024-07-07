@@ -40,7 +40,7 @@
 //     "I'm-member-six",
 // ]
 
-export let imgUser = `./assets/HojiIcon.png`;
+export let imgUser = `https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/HojiIcon.png`;
 export let emoji =``;
 export let domImg = `./assets/HandCatdom.png`;
 export let ModImg = `./assets/yourStream.png`;
