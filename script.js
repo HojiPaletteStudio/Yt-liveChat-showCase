@@ -52,27 +52,27 @@ export let setNameViewer = [
 ];
 let prefix = 'https://cdn.jsdelivr.net/gh/';
 export let setViewerImg = [
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer1.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer2.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer3.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer4.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer5.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer6.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer7.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer8.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer9.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer10.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer11.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer12.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/viewer/viewer13.png"
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer1.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer2.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer3.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer4.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer5.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer6.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer7.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer8.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer9.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer10.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer11.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer12.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/viewer/viewer13.png"
 ];
 export let setMemberImg = [
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem1.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem2.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem3.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem4.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem5.png",
-    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/blob/main/assets/member/mem6.png"
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/member/mem1.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/member/mem2.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/member/mem3.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/member/mem4.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/member/mem5.png",
+    "https://cdn.jsdelivr.net/gh/HojiPaletteStudio/Yt-liveChat-showCase/main/assets/member/mem6.png"
 ];
 export let setMemberName = [
     "I'm-member-one",
